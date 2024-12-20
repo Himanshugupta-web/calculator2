@@ -13,6 +13,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: hsl(342, 79%, 50%);
     border-radius: 15px;
+    align-items: center;
     max-width: 600px;
     overflow: hidden;
 }
@@ -23,6 +24,7 @@ body{
     font-size: 5rem;
     background-color: hsl(0, 0%, 20%);
     text-align: left;
+    align-items: center;
     border:none;
     color: rgb(178, 173, 173);
 }
